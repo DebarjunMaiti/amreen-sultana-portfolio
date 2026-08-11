@@ -139,7 +139,7 @@ export const Hero: React.FC<HeroProps> = ({
               <div className="relative group">
                 <div className="relative aspect-[4/3] w-full rounded-2xl overflow-hidden border border-slate-200 dark:border-slate-800 shadow-md">
                   <img 
-                    src="../src/assets/images/1767836108408.jpg"
+                    src={personalInfo.avatarUrl}
                     alt="Amreen Sultana - Trainer Communications & Voice Specialist"
                     className="w-full h-full object-cover object-top transition-transform duration-500 group-hover:scale-105"
                   />
