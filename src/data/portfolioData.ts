@@ -1,5 +1,5 @@
 import { PersonalInfo, ExperienceItem, SkillCategory, ProjectItem, EducationItem, CertificationItem, PublicationItem } from '../types';
-import headshotImage from '../assets/images/amreen_headshot_1786434813709.jpg';
+import headshotImage from '../assets/images/1767836108408.jpg';
 
 export const personalInfo: PersonalInfo = {
   name: "Amreen Sultana",
